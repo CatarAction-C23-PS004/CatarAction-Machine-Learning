@@ -1,4 +1,11 @@
+<div align="center">
 # CatarAction
+</div>
+
+<center>
+<h2>"From Eye to the World"</h2>
+</center>
+
 
 ## About the Project
 
@@ -30,4 +37,7 @@ Our team identified the prevalence of health issues, particularly eye diseases l
 | Farah Tri Nurul Hayati      | M181DSY0338     | [GitHub](https://github.com/farahtrinrll)|
 | Paul Marturia Sihombing      | M017DSX0422   | [GitHub](https://github.com/paulmsihombing)|
 
-
+## Acknowledgments
+* Open Source Dataset
+* Mobile Development Team
+* Cloud Computing Team
