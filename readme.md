@@ -1,11 +1,7 @@
 <div align="center">
 <h1>CatarAction</h1>
+<h2>From Eye to the World</h2>
 </div>
-
-<div align="center">
-<h2'"From Eye to the World"'</h2>
-</div>
-
 
 ## About the Project
 
