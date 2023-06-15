@@ -1,10 +1,10 @@
 <div align="center">
-# CatarAction
+<h1>CatarAction</h1>
 </div>
 
-<center>
-<h2>"From Eye to the World"</h2>
-</center>
+<div align="center">
+<h2'"From Eye to the World"'</h2>
+</div>
 
 
 ## About the Project
@@ -38,6 +38,7 @@ Our team identified the prevalence of health issues, particularly eye diseases l
 | Paul Marturia Sihombing      | M017DSX0422   | [GitHub](https://github.com/paulmsihombing)|
 
 ## Acknowledgments
+Thanks to:
 * Open Source Dataset
 * Mobile Development Team
 * Cloud Computing Team
